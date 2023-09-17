@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define SIZE 11
+#define SIZE 7
 
 void print_matrix(int arr[SIZE][SIZE])
 {
